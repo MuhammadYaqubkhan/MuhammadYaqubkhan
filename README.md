@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yaqub</h1>
 <h3 align="center">Flutter & AI Developer</h3>
 
-- 🔭 I’m currently working on Flutter project **Pets care & appointment**
+- 🔭 I’m currently working on Flutter project **Pets care & appointment App**
 
 - 🌱 I’m currently learning about **Flutter Backend development**
 
