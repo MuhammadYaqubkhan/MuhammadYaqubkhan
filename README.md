@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **Flutter Backend development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/muhammadyaqub](https://linktr.ee/muhammadyaqub)
+- 👨‍💻 All of my projects are available at [https://github.com/MuhammadYaqubkhan](https://github.com/MuhammadYaqubkhan)
 
 - 💬 Ask me about **Flutter | GetX | Firebase | MySql | Provider | Artificial Intelligence | Machine Learning & Deep Learning**
 
